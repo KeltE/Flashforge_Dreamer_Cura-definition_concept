@@ -7,7 +7,7 @@
         "author": "Egon",
         "manufacturer": "Flashforge",
         "file_formats": "text/x-gcode",
-        "platform": "FlashForge_Dreamer.obj",
+        "platform": "FlashForge_Dreamer.stl",
         "platform_offset": [0, 0, 0],
         "quality_definition": "flashforge_base"
         },
