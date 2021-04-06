@@ -9,16 +9,15 @@
         "file_formats": "application/gx",
         "platform": "FlashForge_Dreamer.stl",
         "platform_offset": [0, 0, 0],
-        "quality_definition": "flashforge_base"
-        },
-
-    "overrides": {
+        "quality_definition": "flashforge_base",
         "machine_extruder_trains": {
             
             "0": "flashforge_dreamer_extruder_0",
             "1": "flashforge_dreamer_extruder_1"
+            }
         },
 
+    "overrides": {
         "machine_name": { "default_value": "Dreamer" },
         "machine_extruder_count": { "default_value": 2 },
         "machine_width": {"default_value": 230},
